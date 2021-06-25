@@ -1,7 +1,4 @@
-- 👋 Hi, My name is  @rohitrayaan, I'm a web developer and Cyber Security Expert
-- 👀 I’m interested in  Full Stack Web Development
-- 👀 I’m interested in Ethical Hacking and Cyber Security
-- 🌱 I’m currently learning Full Stack Web Development
+
 -   The Linux Foundation
 -   Python for Everybody Specialization
 
